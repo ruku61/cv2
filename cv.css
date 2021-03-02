@@ -1,0 +1,151 @@
+*{
+	padding: 0;
+	margin:0 ;
+	box-sizing: border-box;
+}
+
+.container{
+width: 1200px;
+margin:0 auto;
+
+
+
+}
+header{
+	height: 150px;
+	background-color: lightgray;
+	display: flex;
+}
+
+.image img{
+	height: 100px;
+	width: 120px;
+	border-radius: 50%;
+	border:1px white solid;
+	margin:15px;
+	
+}
+.header-text {
+	float: left;
+	margin-top: 30px;
+	width: 400px;
+	color: red;
+}
+
+.info{
+	float: left;
+	margin-top: 30px;
+	margin-left: 200px;
+}
+main{
+	background: lightblue;
+	
+}
+.career{
+	height: 100px;
+	background: pink
+
+
+
+}
+.career-1 h2{
+	margin-left: 50px;
+	padding-top: 20px;
+	color: blue;
+	text-decoration: underline;
+	text-shadow: 1px white solid;
+}
+.career p{
+	text-align: justify;
+	margin-left: 20px;
+	font-size: 16px;
+}
+
+.experience{
+	height: 200px;
+}
+.experience h2{
+	margin:20px;
+	background: green;
+}
+.experience h3{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.experience ul{
+	margin-left: 50px;
+}
+.experience ul li{
+	list-style-type: square;
+	font-size: 20px;
+}
+.education{
+	background-color: lightgray;
+
+}
+
+.education h2{
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: green;
+	
+
+
+}
+.diploma{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.hsc{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.ssc{
+		margin-top: 20px;
+	margin-left: 20px;
+
+
+}
+.lan{
+	margin-top: 20px;
+}
+.lan h2{
+	margin-left: 20px;
+	background-color: green;
+}
+.language{
+
+}
+.tab{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+table th{
+	padding: 10px;
+}
+ table td{
+ 	padding: 5px;
+ }
+
+ .personal{
+
+ 	height: 400px;
+ 	background: lightgray;
+ }
+ .p-info{
+ 	margin-top: 20px;
+ 	margin-left: 20px;
+ }
+ .p-info p{
+ 	font-size: 18px;
+ }
+ footer{
+ 	background-color: red;
+ 	height: 50px;
+ }
+ footer h3{
+ 	padding: 10px;
+ 	text-align: center;
+ 	color: black;
+ }
